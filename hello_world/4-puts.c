@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: 'the program's description'
+ * main - void
  * Return 0
  */
 int main(void)
