@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - void
- * Return; success
+* main - void Programm
+ * Return: success
  */
 
 int main(void)
