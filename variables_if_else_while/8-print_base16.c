@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-#include <stdio.h>
+/**
+ ** main - void Programm
+ ** Return: success
+ **/
 
 int main(void)
 
