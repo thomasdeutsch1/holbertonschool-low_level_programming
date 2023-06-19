@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*
- *main - void Programm
- *Return: success
- */
+/**
+ *  * main - void
+ * Return: Always 0 (Success)
+ **/
 
 int main(void)
 {
