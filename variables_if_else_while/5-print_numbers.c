@@ -12,10 +12,11 @@ int main(void)
 	number = 0;
 
 
-for (number = 0; number <= 10; number++)
-{
+	for (number = 0; number <= 10; number++)
+	{
 
-	printf("%d", number);
+		printf("%d", number);
+	
+	}
 	return (0);
-}
 }
