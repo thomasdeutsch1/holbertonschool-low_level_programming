@@ -1,4 +1,10 @@
 #include <stdio.h>
+
+/*
+ *  * main - void Programm
+ *   * Return: success
+ */
+
 int main(void)
 {
 	char lowercase;
@@ -11,5 +17,5 @@ int main(void)
 	}
 
 	putchar('\n');
-	return 0;
+	return (0);
 }
