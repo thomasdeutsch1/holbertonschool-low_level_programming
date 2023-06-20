@@ -1,17 +1,23 @@
-#include <main.h>
-#include <stdio.h>
+#include "main.h"
+
 
 /**
- ** main - check the code
- **
- ** Return: Always 0.
- **/
+ *  *  * main - void
+ *   * Return: Always 0 (Success)
+ *    **/
+
 
 void print_alphabet(void);
-
 int main(void)
-{	char letter;
-	for (letter = 'a'; c <='z'; ++letter)
-	printf ("%c", c);
+{
+	char lettre;
+
+	lettre = 'a';
+
+	for (lettre = 'a'; lettre <= 'z'; lettre++)
+
+		_putchar(lettre);
+
+	_putchar('\n');
 	return (0);
 }
