@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * function_name - Descrition
+ * _islower - if else
  * @c: int
  * Description: islower
  * Return: Descrition
