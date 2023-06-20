@@ -5,8 +5,8 @@
  *  *print_alphabet - void
  *   **/
 
-void print_alphabet_x10(void);
-
+void print_alphabet_x10(void)
+{
 	
 	char lettre;
 	int i;
@@ -18,5 +18,7 @@ void print_alphabet_x10(void);
 
 	{_putchar(lettre); }
 
-	_putchar('\n'); } }
+	_putchar('\n'); }
+	
+}
 
