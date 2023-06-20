@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
- *** int _islower(int c); - isoler lowercase expect c
- *
- **/
+ * function_name - Descrition
+ * @c: int
+ * Description: islower
+ * Return: Descrition
+ */
+
 
 int _islower(int c);
 
