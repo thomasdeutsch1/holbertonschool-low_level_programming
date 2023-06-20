@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- *This is the preferred style for multi-l
- *Description: print_alphabet_x10.c
- ** with beginning and ending almost-blank lines.
+ * Description: print_alphabet_x10.c
  */
 
 void print_alphabet_x10(void)
