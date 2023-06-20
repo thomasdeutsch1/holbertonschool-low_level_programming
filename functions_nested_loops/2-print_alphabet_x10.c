@@ -1,9 +1,13 @@
 #include "main.h"
 
 /**
- *  *print_alphabet - voi
- *  function print_alphabet_x10
- *   **/
+ * main - void
+ * 
+ * Description: print_alphabet_x10
+ ** 
+ ** 
+ * Return: Always 
+ */
 
 void print_alphabet_x10(void)
 {
