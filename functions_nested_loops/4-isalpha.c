@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *  * _islower - if else
+ *  * _isalpha - if else
  *   * @c: int
- *    * Description: islower
+ *    * Description: _isalpha
  *     * Return: Descrition
  *      */
 
