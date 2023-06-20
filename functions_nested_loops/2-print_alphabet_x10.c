@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- ** print_alphabet_x10
- ** 
+ *This is the preferred style for multi-l
+ *Description: print_alphabet_x10.c
+ ** with beginning and ending almost-blank lines.
  */
 
 void print_alphabet_x10(void)
@@ -14,11 +15,11 @@ void print_alphabet_x10(void)
 	for (i = 0; i < 10; i++)
 	{
 
-	for (lettre = 'a'; lettre <= 'z'; lettre++)
+		for (lettre = 'a'; lettre <= 'z'; lettre++)
 
-	{_putchar(lettre); }
+		{_putchar(lettre); }
 
-	_putchar('\n'); }
+		_putchar('\n'); }
 
 }
 
