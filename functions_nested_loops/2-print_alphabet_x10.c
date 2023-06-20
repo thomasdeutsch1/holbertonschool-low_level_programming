@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * Description: print_alphabet_x10.c
- */
+ *  *print_alphabet - void
+ *   **/
 
 void print_alphabet_x10(void)
 {
