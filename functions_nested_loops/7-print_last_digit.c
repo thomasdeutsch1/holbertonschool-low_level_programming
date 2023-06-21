@@ -1,22 +1,29 @@
 #include "main.h"
 
 /**
- *  *  *  *  * _isalpha - if else
- *   *   *   *   * @c: int
- *    *    *    *    * Description: _isalpha
- *     *     *     *     * Return: Descrition
- *      *      *      *      */
+ * print_last_digit - function
+ *@number: ok
+ *Return: Last
+ **/
 
 
-int print_last_digit(int r)
+int print_last_digit(int number)
 
 
 {
-	int last = r % 10;
+	int last;
 
-	if (r < 0)
-	{	last *= -1;
+	if (number < 0)
+	{	
+		last = number % 10 * -1;
+		_putchar(last + '0');
+		return(last)
 	}
+	else
 	{
-	return (last); }
+		last = number % 10;
+		_putchar(last + '0');
+		return (last); 
+	}
+
 }
