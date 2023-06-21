@@ -2,7 +2,6 @@
 
 /**
  *  * jack_bauer - 24h
- *   *@number: ok
  *    *Return: void
  ***/
 
