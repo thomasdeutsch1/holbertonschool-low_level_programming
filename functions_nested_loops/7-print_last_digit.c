@@ -18,5 +18,5 @@ int print_last_digit(int r)
 	{	last_digit *= -1;
 	}
 	{
-	return (r); }
+	return (last_digit); }
 }
