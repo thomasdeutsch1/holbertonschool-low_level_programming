@@ -1,11 +1,6 @@
 #include "main.h"
 
-int add(int, int)
+int add(int a, int b)
 {
-
-	int n, c, somme;
-
-	n + c = somme;
-	return (0);
-
+	return a + b;
 }
