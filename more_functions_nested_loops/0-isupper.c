@@ -1,13 +1,15 @@
-#include <"main.h">
+#include "main.h"
 
 int _isupper(int c)
 
 {
-{
-	if ( c = ['a'...'z']
-		 return : 1;
-	if else ( c = ['A'...'Z']
-		return : (0);
-}
-	_putchar : ('\n')
+	if (c >= 'A' && c <= 'Z')
+
+		return (1);
+
+	else
+
+		return (0);
+
+_putchar('\n');
 }
