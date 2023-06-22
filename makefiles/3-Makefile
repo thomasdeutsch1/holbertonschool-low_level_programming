@@ -8,9 +8,9 @@ all: $(NAME)
 $(NAME) : $(OBJ)
 	$(CC) $(OBJ) -o $(NAME)
 
-clean : 
+clean: 
 	rm -rf *
-oclean :
+oclean:
 	rm -f main.o school.o
 fclean:
 	rm -f* main.o
