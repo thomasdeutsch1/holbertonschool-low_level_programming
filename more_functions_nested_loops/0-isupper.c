@@ -1,8 +1,11 @@
 #include "main.h"
 
 /**
- ** Description: int _isupper(int c)
-**/
+ *  * mul - fonction
+ *   * @a: the first
+ *    * @b: the
+ *     * Return: a * b
+ **/
 
 int _isupper(int c)
 {
