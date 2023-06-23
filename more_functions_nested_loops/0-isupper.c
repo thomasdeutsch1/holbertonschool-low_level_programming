@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- *  * mul - fonction
- *   * @a: the first
- *    * @b: the
- *     * Return: a * b
+ * _isupper - ok
+ *
+ * @c: m
+ *
+ * Return: 1-0
  **/
 
 int _isupper(int c)
@@ -14,4 +15,3 @@ int _isupper(int c)
 	else
 		return (0);
 }
-
