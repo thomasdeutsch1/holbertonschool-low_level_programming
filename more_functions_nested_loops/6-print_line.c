@@ -2,12 +2,15 @@
 
 /**
  * print_line - ok
- **/
+ *
+ * @n: ok
+ */
 
 void print_line(int n)
 
 {
 	int i;
+
 	if (n <= 0)
 	{
 
@@ -17,9 +20,9 @@ void print_line(int n)
 	{
 
 		for (i = 0; i < n; i++)
-	{
-		_putchar('_');
-	}
-	_putchar('\n');
+		{
+			_putchar('_');
+		}
+		_putchar('\n');
 	}
 }
