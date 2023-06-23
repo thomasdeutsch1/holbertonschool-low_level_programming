@@ -1,9 +1,10 @@
 # include "main.h"
 
 /**
- * int _isdigit(int c)
- * @c
- * Return: 1 - 0
+ * _isdigit - ok
+ * @c: m
+ *
+ * Return: 1-0
  */
 
 int _isdigit(int c)
