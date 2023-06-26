@@ -1,7 +1,7 @@
 #include "main.h"
 
 /*
- * Description: function that takes a pointer to an int
+ * Description: reset_to_98
  *
  */
 
